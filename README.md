@@ -27,7 +27,7 @@ I love exploring new technologies and am always on the lookout for interesting c
 <hr>
 <div align="center">
   <h4>!My Skills</h4>
-<img src="(https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs)">
+<img src="(https://skillicons.dev/icons?i=html,css,js)">
   
 </div>
 
