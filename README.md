@@ -26,6 +26,6 @@ I love exploring new technologies and am always on the lookout for interesting c
 
 <hr>
 <div align="center">
-  <h4>Social</h4>
+  <h4>Socials</h4>
   <a href="#"></a>
 </div>
