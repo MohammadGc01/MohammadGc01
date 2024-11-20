@@ -26,8 +26,8 @@ I love exploring new technologies and am always on the lookout for interesting c
 
 <hr>
 <div align="center">
-  <h4>Skills</h4>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  <h4>!My Skills</h4>
+(https://skillicons.dev/icons?i=html)
 </div>
 
 
