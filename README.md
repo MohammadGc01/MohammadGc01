@@ -1,7 +1,7 @@
-Hi there! 👋
+Hello there! 👋
 Welcome to my GitHub profile! I'm MohammadGc01, and I’m excited to share my projects and collaborate with others in the tech community.
 
-🔭 I’m currently working on:
+<!--🔭 I’m currently working on:
 Developing web applications using HTML, CSS, and JavaScript.
 Building backend services with Node.js and MySQL.
 🌱 I’m currently learning:
@@ -22,3 +22,10 @@ You can contact me via my email or connect with me on LinkedIn.
 He/Him
 ⚡ Fun fact:
 I love exploring new technologies and am always on the lookout for interesting coding challenges!
+-->
+
+<hr>
+<div align="center">
+  <h4>Social</h4>
+  <a href="#"></a>
+</div>
