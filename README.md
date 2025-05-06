@@ -23,8 +23,8 @@ Passionate about building modern web applications and eager to learn new technol
 ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
 
 ### Contact
-<p> 📧 mohammadgc.01@gmail.com </p>
-Telegram :  <a href="https://t.me/MohammadGc01"> MohammadGc01 </a>
+### <p> 📧 mohammadgc.01@gmail.com </p>
+### Telegram :  <a href="https://t.me/MohammadGc01"> MohammadGc01 </a>
 
 ---
 
