@@ -1,4 +1,4 @@
-# Hello! 👋 I'm MohammadGc
+# Hello! 👋 I'm Mohammad Hasan Atashbar but everyone call me Mohammad Gc & and I'm a Junior Developer
 
 ### About Me
 Passionate about building modern web applications and eager to learn new technologies.
