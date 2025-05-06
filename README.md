@@ -1,4 +1,4 @@
-# Hello! 👋 I'm MohammadGc01 & Welcome To my Gitub profile
+# Hello! 👋 I'm MohammadGc
 
 ### About Me
 Passionate about building modern web applications and eager to learn new technologies.
