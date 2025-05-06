@@ -13,7 +13,8 @@ Passionate about building modern web applications and eager to learn new technol
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ### Contact
-📧 mohammadgc.01@gmail.com
+<p> 📧 mohammadgc.01@gmail.com </p>
+<br>
 Telegram :  <a href="https://t.me/MohammadGc01"> MohammadGc01 </a>
 
 ---
