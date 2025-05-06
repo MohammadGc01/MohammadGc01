@@ -12,8 +12,8 @@ Passionate about building modern web applications and eager to learn new technol
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-### Contacts
-🔗 [LinkedIn](your-linkedin-profile) | 📧 your.email@example.com
+### Contact
+📧 mohammadgc.01@gmail.com
 
 ---
 
