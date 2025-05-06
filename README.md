@@ -3,6 +3,9 @@
 ### About Me
 Passionate about building modern web applications and eager to learn new technologies.
 
+---
+
+
 ### Skills
 ### Language: <br>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="height:20px;">
@@ -21,6 +24,9 @@ Passionate about building modern web applications and eager to learn new technol
 ### Tools: <br>
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" style="height:20px;">
 <img src="https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black" style="height:20px;">
+
+---
+
 
 ### Contact
 ### <p> 📧 mohammadgc.01@gmail.com </p>
