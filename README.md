@@ -1,7 +1,4 @@
-# Salam! 👋 I'm MohammadGc01
-Web Developer | JavaScript | Node.js | React | Vue.js | MySQL | MongoDB
-
----
+# Hello! 👋 I'm MohammadGc01 & Welcome To my Gitub profile
 
 ### About Me
 Passionate about building modern web applications and eager to learn new technologies.
@@ -11,7 +8,6 @@ Passionate about building modern web applications and eager to learn new technol
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=333)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-41b883?style=flat&logo=vue.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
