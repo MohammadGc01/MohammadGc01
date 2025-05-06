@@ -7,6 +7,7 @@ Passionate about building modern web applications and eager to learn new technol
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=333)
+![Express Js](https://img.shields.io/badge/Express.Js-F7DF1E?style=flat&logo=javascript&logoColor=333)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-41b883?style=flat&logo=vue.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
