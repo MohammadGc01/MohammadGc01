@@ -14,7 +14,6 @@ Passionate about building modern web applications and eager to learn new technol
 
 ### Contact
 <p> 📧 mohammadgc.01@gmail.com </p>
-<br>
 Telegram :  <a href="https://t.me/MohammadGc01"> MohammadGc01 </a>
 
 ---
