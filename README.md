@@ -1,40 +1,25 @@
-Hello there! 👋
-Welcome to my GitHub profile! I'm MohammadGc01, and I’m excited to share my projects and collaborate with others in the tech community.
+# Salam! 👋 I'm MohammadGc01
+Web Developer | JavaScript | Node.js | React | Vue.js | MySQL | MongoDB
 
-<!--🔭 I’m currently working on:
-Developing web applications using HTML, CSS, and JavaScript.
-Building backend services with Node.js and MySQL.
-🌱 I’m currently learning:
-Advanced concepts in JavaScript and exploring React for frontend development.
-Enhancing my skills in Bootstrap for responsive design.
-👯 I’m looking to collaborate on:
-Open-source projects that involve web development.
-Any innovative ideas that can benefit from my skill set!
-🤔 I’m looking for help with:
-Best practices in Node.js and MySQL integration.
-Improving my knowledge in API development.
-💬 Ask me about:
-Web development techniques and best practices.
-My experiences with different frameworks and libraries.
-📫 How to reach me:
-You can contact me via my email or connect with me on LinkedIn.
-😄 Pronouns:
-He/Him
-⚡ Fun fact:
-I love exploring new technologies and am always on the lookout for interesting coding challenges!
--->
+---
 
-<hr>
-<div align="center">
-  <h4>!My Skills</h4>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,mysql">
-</div>
+### About Me
+Passionate about building modern web applications and eager to learn new technologies.
 
+### Skills
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=333)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-41b883?style=flat&logo=vue.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
+### Contacts
+🔗 [LinkedIn](your-linkedin-profile) | 📧 your.email@example.com
 
-<hr>
-<div align="center">
-  <h4>Socials</h4>
-  <a href="https://www.instagram.com/_mohammad.gc/"><img src="https://camo.githubusercontent.com/94b50d6a71e67a79d85b051d8af86ad7cc541a7304e6db4825430830e9a43383/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d2532334534343035462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465"></a>
-    <a href="#"><img src="https://camo.githubusercontent.com/8f41682a178e57a174d0c6042e9cdb842c6329b24c34b2bf4206c25e933073a9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3243413545303f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465"></a>
-</div>
+---
+
+### Fun Fact
+I’m always exploring new techy challenges! 🚀
