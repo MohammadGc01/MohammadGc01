@@ -5,7 +5,7 @@ Passionate about building modern web applications and eager to learn new technol
 
 ### Skills
 Language: <br>
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=333)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 Language FrameWork: <br>
 ![Vue.js](https://img.shields.io/badge/Vue.js-41b883?style=flat&logo=vue.js&logoColor=white) 
