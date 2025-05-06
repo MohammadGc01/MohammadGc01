@@ -30,7 +30,7 @@ Passionate about building modern web applications and eager to learn new technol
 
 ### Contact
 ### <p> 📧 mohammadgc.01@gmail.com </p>
-### Telegram :  <a href="https://t.me/MohammadGc01"> MohammadGc01 </a>
+### ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) :  <a href="https://t.me/MohammadGc01"> MohammadGc01 </a>
 
 ---
 
