@@ -34,7 +34,7 @@ Everyone calls me **Mohammad Gc** – I'm a **Junior Backend Developer** passion
 ---
 
 ## 📬 Contact Me  
-- 📧 Email: mohammadgc.01@gmail.com  
+- 📧 Email: <a mailto="mohammadgc.01@gmail.com">mohammadgc.01@gmail.com  </a>
 - 💬 Telegram: [@MohammadGc01](https://t.me/MohammadGc01)  
 
 ---
