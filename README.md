@@ -23,6 +23,9 @@ Passionate about building modern web applications and eager to learn new technol
 ### Tools: <br>
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
+![POSTMAn](https://img.shields.io/badge/postman-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
+
+
 
 ---
 
