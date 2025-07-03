@@ -25,7 +25,7 @@ Passionate about building modern web applications and eager to learn new technol
 ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
 ![POSTMAn](https://img.shields.io/badge/postman-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
 
-
+https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Postman.svg
 
 ---
 
