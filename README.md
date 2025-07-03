@@ -32,5 +32,4 @@ Passionate about building modern web applications and eager to learn new technol
 
 ---
 
-### Fun Fact
-I’m always exploring new techy challenges! 🚀
+
